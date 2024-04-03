@@ -4,3 +4,6 @@ container:
   image: httpd:latest
 
 replicaCount: 1
+
+service:
+  type: ClusterIP
