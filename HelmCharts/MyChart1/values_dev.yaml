@@ -5,3 +5,6 @@ container:
 
 replicaCount: 4
 
+service:
+  type: ClusterIP
+
