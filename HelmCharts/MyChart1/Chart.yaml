@@ -9,9 +9,7 @@ keywords:
   - apache
   - http
   - https
-  - denisastahov
 
 maintainers:
-  - name : Denis Astahov
-    email: denis@astahov.net
-    url  : www.astahov.net
+  - name : Bagrat Harutyunyan
+    email: bagrat1206@gmail.com
