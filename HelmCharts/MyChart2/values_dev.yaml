@@ -4,7 +4,3 @@ container:
   image: bagrat92/myapp:v2
 
 replicaCount: 4
-
-service:
-  spec:
-    type: ClusterIP
