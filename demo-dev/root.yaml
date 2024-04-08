@@ -7,7 +7,7 @@ metadata:
   - resources-finalizer.argocd.argoproj.io
 spec:
   destination:
-    name     : in-cluster
+    name     : sa-dev-cluster
     namespace: argocd
   source:
     path   : "demo-dev/applications"
